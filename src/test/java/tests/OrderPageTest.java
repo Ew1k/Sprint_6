@@ -1,3 +1,4 @@
+package tests;
 import pageobjects.MainPage;
 import pageobjects.OrderPage;
 
